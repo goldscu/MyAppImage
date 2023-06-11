@@ -11,10 +11,14 @@ An application designed specifically for Mac to conveniently process images for 
 3 Blur images: Export blurred images with one click, and control the degree of blur to make your application more wonderful.
 
 4 App Store images:
+
 a. Save multiple sets of App Store images, easily manage multiple applications, built-in iOS 5.5, iOS 6.5, iPad 12.9, macOS templates required by App Store, and you can also use custom templates to create landscape images.
 b. An application image can save multiple images, with no limit on quantity, and each image style can be set separately, and can also be copied to other images with one click.
+
 c. The text of App Store images is divided into two groups, one for the large title and one for the small title. Both can control the font size, font, solid and hollow drawing, position, shadow offset, shadow blur, shadow color, etc., and the maximum text width can also control vertical text.
+
 d. The background image of App Store images can choose a single color, gradient color, or image.
+
 e. The device image of App Store images can choose your own image, and you can make your own image display most suitable by setting the indentation of the screenshot; a set of images required by App Store are built-in to make it easy for you to design a set of images required for deployment.
 
 ## Feedback
